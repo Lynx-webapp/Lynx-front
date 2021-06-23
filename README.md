@@ -4,4 +4,4 @@ Lynx is a frontend chat webapp.
 
 ## To Do
 
-- [ ] Home
+- [X] Home
